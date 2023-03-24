@@ -1,0 +1,49 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+
+
+.box {
+display: inline-block;
+font-size: 20px;
+text-align: center;
+border: 3px solid black;
+
+} 
+.box--1 {
+    background-color: blue;
+}
+.box--2 {
+    background-color: yellow;
+}
+.box--3 {
+    background-color: green;
+}
+.box--4 {
+    background-color: rgb(18, 142, 132);
+    width: 40px;
+}
+.container {
+   width: 50%;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.let {
+    width: 100%;
+}
+ul li:hover {
+    background-color: white;
+    opacity: 9;
+    color: rgb(74, 22, 22);
+}
+ul li {
+    font-weight:bold
+}
